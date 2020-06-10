@@ -1,0 +1,38 @@
+:root {
+--title-color:#064e09;
+--primary-color: #2fb86e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+     }
+
+     body{
+         background: #f0f0f5;
+         -webkit-font-smoothing: antialiased;
+     }
+
+    a {
+        text-decoration: none;
+
+    }
+    h1,h2,h3,h3,h5,h6{
+        font-family: Ubuntu, sans-serif;
+        color: var(--title-color);
+       
+
+    }
+
+     /* BOX MODEL 
+     
+     
+     
+     */
+
+     
